@@ -1,4 +1,5 @@
-"use client"
+"use client";
+
 import { Button, Checkbox, Form, FormProps, Input } from "antd";
 import styled from "styled-components";
 
